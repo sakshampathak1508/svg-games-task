@@ -1,8 +1,8 @@
 # svg-games-task
 
-. TO GET THE LIST OF ALL AVAILABLE GAMES AND REQEST AS WELL 
-		 		 
-		Api Path :- https://web-production-5d0eb.up.railway.app/api/game/
+TO GET THE LIST OF ALL AVAILABLE GAMES AND REQEST AS WELL 
+
+Api Path :- https://web-production-5d0eb.up.railway.app/api/game/
 		
     Body for post request:
       eg: in json
@@ -16,9 +16,8 @@
       
 
 2. TO GET,PUT,DELETE THE GAME OF ONE PRIMARY KEY ID IS AS FOLLOWS
-		
-			
-		Api Path :- https://web-production-5d0eb.up.railway.app/api/game/
+
+Api Path :- https://web-production-5d0eb.up.railway.app/api/game/1
     
     here it is of the type url <int:pk> where you pass the primary key an get put delete address via this url
     
