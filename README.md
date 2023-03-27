@@ -1,10 +1,8 @@
 # svg-games-task
 
-Run the Dev server by creating a virtual environment and installing requirements by pip install -r requirements.txt
-
 . TO GET THE LIST OF ALL AVAILABLE GAMES AND REQEST AS WELL 
 		 		 
-		Api Path :- http://localhost:8000/api/game/
+		Api Path :- https://web-production-5d0eb.up.railway.app/api/game/
 		
     Body for post request:
       eg: in json
@@ -20,7 +18,7 @@ Run the Dev server by creating a virtual environment and installing requirements
 2. TO GET,PUT,DELETE THE GAME OF ONE PRIMARY KEY ID IS AS FOLLOWS
 		
 			
-		Api Path :- http://localhost:8000/api/game/1/
+		Api Path :- https://web-production-5d0eb.up.railway.app/api/game/
     
     here it is of the type url <int:pk> where you pass the primary key an get put delete address via this url
     
